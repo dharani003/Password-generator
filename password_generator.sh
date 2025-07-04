@@ -17,8 +17,8 @@ fi
 clear
 echo -e "${blue}----------------------------------------${reset}"
 echo -e "${yellow}   Password Generating Tool${reset}"
-echo -e "${green}      Created by: Madhan${reset}"
-echo -e "${green}      Email: madhan542111@gmail.com${reset}"
+echo -e "${green}      Created by: Dharanidaran${reset}"
+echo -e "${green}      Email: dharanishankar1234@gmail.com${reset}"
 echo -e "${blue}----------------------------------------${reset}"
 echo -e ""
 toilet -f future "Password Generator" | lolcat
